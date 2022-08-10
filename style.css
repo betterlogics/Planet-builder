@@ -1,0 +1,27 @@
+.background-image img{
+    width: 100%;
+    opacity: 1;
+
+}
+.colors h2:hover{
+   /* background-color : darkgoldenrod; */
+   color: rgb(124, 8, 8);
+   
+    cursor: pointer;
+}
+.imgg{
+    width: 50%;
+    /* margin-left: 90px; */
+    display: block;
+  margin: auto;
+    margin-top: 30px;
+}
+.text{
+    color: #A81C36;
+}
+.nab-bg{
+    background-color: #A81C36;
+}
+.footer-bg{
+    background-color: #6B6A68;
+}
